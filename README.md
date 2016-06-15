@@ -23,7 +23,7 @@ Specificare il tema del workshop, con una breve descrizione degli argomenti da t
 
 La data dell'evento verrà comunicata **una settimana dopo** l'apertura dell'issue, dopo aver controllato che la descrizione del workshop sia completa.
 
-Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverra' tramire una pull request su questo progetto.
+Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverra' tramite una pull request su questo progetto.
 
 ## Contattaci
 Email: *programmatori.a.catania@gmail.com*
