@@ -17,10 +17,13 @@ Di seguito alcune **idee** per dei workshops:
 * Arduino/raspberry pi
 
 ## Proponi un workshop
+
 Per proporre un nuovo workshop bisogna aprire un issue nel seguente progetto.
 Specificare il tema del workshop, con una breve descrizione degli argomenti da trattare, la durata, chi presenterà, il tipo di audience e ogni altra informazione utile. 
 
-Il material del workshop deve essere *peer reviewed* almeno 7 giorni prima dell'evento. La peer review avverra' tramire una pull request su questo progetto.
+La data dell'evento verrà comunicata **una settimana dopo** l'apertura dell'issue, dopo aver controllato che la descrizione del workshop sia completa.
+
+Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverra' tramire una pull request su questo progetto.
 
 ## Contattaci
 Email: *programmatori.a.catania@gmail.com*
