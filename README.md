@@ -28,6 +28,8 @@ Di seguito alcune **idee** per dei workshops:
 
 Se pensi di appartenere ad almeno una delle tre categoria qui sopra, scrivici a *programmatori.a.catania@gmail.com* oppure contatta gli admin del gruppo Facebook [Programmatori a Catania](https://www.facebook.com/groups/programmatoriCatania/)
 
-Una volta discusso il workshop e/o l'idea, bisogna aprire una relativa issue su questo progetto Github. Specificare il tema del workshop, con una breve descrizione degli argomenti da trattare, la durata, chi presenterà, il tipo di audience e ogni altra informazione utile.
+Una volta discusso il workshop e/o l'idea, bisogna aprire una relativa issue su questo progetto Github. Specificare il tema del workshop, con una breve descrizione degli argomenti da trattare, la durata, la disponibilità in termini di date, chi presenterà, il tipo di audience e ogni altra informazione utile.
 
-Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverrà tramite una pull request su questo progetto.
+Il material dei workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverrà tramite il sistema di commenti e pull request di questo progetto, e sarà aperta a tutti gli utenti di PAC che vorranno dare una mano.
+
+Anche prima della peer review, gli amministratori cercheranno di offrire tutto il supporto possibile ai relatori che volessero approfondire i loro argomenti, e siamo sicuri che anche gli utenti di PAC saranno ben disponibili di mettere il loro know-how a disposizione. Siete quindi incoraggiati a inviare il materiale, o anche solo le idee, o una scaletta, anche prima dei 7 giorni. Una nota agli studenti, che vogliamo stra-incoraggiare, in particolare per i talk di base: non siate timidi, se vi sentite di fare un talk, fatelo, può essere un'ottima occasione di crescere ed imparare; per qualsiasi incertezza ci saranno gli admin e gli altri utenti del gruppo a coprirvi le spalle.
