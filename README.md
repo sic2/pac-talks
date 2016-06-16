@@ -9,24 +9,25 @@ Di seguito alcune **idee** per dei workshops:
 * Shell
 * Redis
 * Progetti open sources e License
-* Panoramica su linux, quali sono gli ambienti di sviluppo, quale linguaggio si usa per cosa.
+* Panoramica su Linux, quali sono gli ambienti di sviluppo, quale linguaggio si usa per cosa
 
 **Corsi avanzati**
-* Design of a RESTful API using Play
+* Design of a RESTful API using Play 
 * Docker, AWS
-* Come gestire le password dei propri utenti e altro sulla sicurezza di un app
+* Come gestire le password dei propri utenti e altro sulla sicurezza di un App
 * Arduino/raspberry pi
 * Creare e gestire la tua prima VPS [idea-fonte](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * Deploy di applicazioni php e sinatra sulla propria VPS. Basi di Nginx
+* Microservices Design
 
-## Proponi un workshop
+## Proporre un Workshop
 
-Per proporre un nuovo workshop bisogna aprire un issue nel seguente progetto.
-Specificare il tema del workshop, con una breve descrizione degli argomenti da trattare, la durata, chi presenterà, il tipo di audience e ogni altra informazione utile.
+* Sarebbe figo se qualcuno facesse un workshop su X
+* Posso fare un workshop/talk su Y. Pensavo a presentarlo così e colà, che ne pensate?
+* Ragazzi, ho un talk già preparato su Z con le slides pronte per la **peer review**
 
-Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverra' tramite una pull request su questo progetto.
+Se pensi di appartenere ad almeno una delle tre categoria qui sopra, scrivici a *programmatori.a.catania@gmail.com* oppure contatta gli admin del gruppo Facebook [Programmatori a Catania](https://www.facebook.com/groups/programmatoriCatania/)
 
-## Contattaci
-Email: *programmatori.a.catania@gmail.com*
+Una volta discusso il workshop e/o l'idea, bisogna aprire una relativa issue su questo progetto Github. Specificare il tema del workshop, con una breve descrizione degli argomenti da trattare, la durata, chi presenterà, il tipo di audience e ogni altra informazione utile.
 
-[Gruppo FB](https://www.facebook.com/groups/programmatoriCatania/)
+Il material del workshop deve essere **peer reviewed** almeno 7 giorni prima dell'evento. La peer review avverrà tramite una pull request su questo progetto.
